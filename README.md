@@ -17,6 +17,3 @@
 - Cursor IDE became unresponsive when attempting to clone the repository via its UI
 - Neither Claude Code nor Codex required separate login — both installed and activated directly
 - Used GitHub's web interface to complete README editing as a workaround
-
-## Notes
-Task completed as part of the 100Hires application screening process.
